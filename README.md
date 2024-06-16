@@ -68,7 +68,7 @@ Problems: Lists errors or warnings identified by linters or the compiler.
 The heart of VS Code, where you write and edit your code.
 You can open multiple files simultaneously and arrange them in tabs or split views for efficient code comparison and editing.
 Each editor window displays features like syntax highlighting, code completion, and debugging functionality (depending on installed extensions).
-4. Status Bar (Bottom Bar):
+4. Status Bar (Bottom Bar):/
 
 Provides real-time information about your project and editing state.
 Common status bar elements include:
